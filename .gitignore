@@ -1,0 +1,58 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit local configuration
+.streamlit/secrets.toml
+
+# Generated Python package files
+build/
+dist/
+*.egg-info/
+
+# Optional: Uncomment if you do not want to upload the dataset
+# Dataset.csv
+
+# Optional: Uncomment if you do not want to upload generated outputs
+# yearly_additions.csv
+# yearly_content_type.csv
+# forecast_evaluation.csv
+# model_comparison.csv
+# future_forecast.csv
+# final_forecast.csv

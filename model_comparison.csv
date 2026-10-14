@@ -1,0 +1,3 @@
+Model,MAE,RMSE
+Linear Regression,1118.85,1125.43
+Holt Exponential Smoothing,855.33,1010.85
